@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Segoe UI Lite';
-  src: url('//css.smartresponsor.com/fonts/segoeuil.ttf') format('truetype');
+  src: url('https://fonts.smartresponsor.com/fonts/segoeuil.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('//css.smartresponsor.com/fonts/glyphicons-halflings-regular.eot');
-  src: url('//css.smartresponsor.com/fonts/glyphicons-halflings-regular?#iefix') format('embedded-opentype'), url('//css.smartresponsor.com/fonts/glyphicons-halflings-regular.woff') format('woff'), url('//css.smartresponsor.com/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('//css.smartresponsor.com/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular.eot');
+  src: url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular?#iefix') format('embedded-opentype'), url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -624,9 +624,6 @@
 
 
 
-@font-face{font-family:'jomsocial';
-src:url('//css.smartresponsor.com/font/jomsocial.eot');
-src:url('//css.smartresponsor.com/font/jomsocial.eot?#iefix') format('embedded-opentype'),url('//css.smartresponsor.com/font/jomsocial.woff') format('woff'),url('//css.smartresponsor.com/font/jomsocial.ttf') format('truetype'),url('//css.smartresponsor.com/font/jomsocial.svg#jomsocial') format('svg');font-weight:normal;font-style:normal;unicode-range:U+00-FFFF;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}[class^="joms-icon-"]:before,[class*=" joms-icon-"]:before{font-family:"jomsocial";font-style:normal;font-weight:normal;speak:none;text-decoration:inherit;text-align:center;font-variant:normal;text-transform:none;line-height:inherit;margin: 3px;}
 
 .joms-icon-evernote:before {
 	content: "\e0f9";

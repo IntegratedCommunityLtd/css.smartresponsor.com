@@ -1,7 +1,7 @@
 @font-face {
 font-family: 'Glyphicons Halflings';
-src: url('../fonts/glyphicons-halflings-regular.eot');
-src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+src: url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular.eot');
+src: url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://fonts.smartresponsor.com/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
 html {
 	font-family: Arial, sans-serif;
