@@ -682,8 +682,6 @@ form#frmProfile>table.category tbody tr td{
 }
 #vmCartModule {
   background: none;
-  border-radius: 4px;
-  border-style: solid;
   border-width: 1px;
   box-sizing: border-box;
   display: inline-block;
