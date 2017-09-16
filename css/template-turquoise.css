@@ -7904,33 +7904,6 @@ div.g-pageteam .b-ourclient .yt-lightbox {
 #topmenu .search input.inputbox:focus + .button i {
   color: #ff7900;
 }
-.vmCartModule .total_products {
-  padding: 3px 0;
-  font-size: 91%;
-  font-weight: 600;
-}
-.vmCartModule .total_products .total {
-  text-align: center;
-  line-height: 45px;
-  border: 3px solid #01cea7;
-  display: inline-block;
-  margin: 10px 10px 10px 0;
-  width: 38px;
-  height: 38px;
-  -webkit-border-radius: 28px;
-  -moz-border-radius: 28px;
-  border-radius: 28px;
-  font-size: 14px;
-  vertical-align: text-top;
-  height: 28px;
-  width: 28px;
-  line-height: 27px;
-  background-color: #fff;
-  margin: -10px 5px 0;
-  position: relative;
-  z-index: 2;
-  overflow: hidden;
-}
 .vmCartModule .total_products .total i {
   margin: 0;
 }
