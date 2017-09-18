@@ -169,6 +169,7 @@ vertical-align: middle;
 .componenta {
 width:100%;
 border: 1px solid #dadada!important;
+border-bottom: none !important;
 border-bottom: none;
 -webkit-border-radius: 3px 3px 0 0;
 -moz-border-radius: 3px 3px 0 0;
@@ -686,7 +687,6 @@ form#frmProfile>table.category tbody tr td{
   box-sizing: border-box;
   display: inline-block;
   font-size: 14px;
-  height: 55px;
   line-height: normal;
 
   position: relative;

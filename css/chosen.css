@@ -41,7 +41,7 @@ border-top: solid 1px #eee;
   overflow: hidden;
   white-space: nowrap;
   position: relative;
-  line-height: 30px;
+  line-height: 34px;
   padding: 0;
 
   color: #444;
@@ -125,8 +125,7 @@ border-top: solid 1px #eee;
   padding: 0;
   cursor: text;
   overflow: hidden;
-  height: auto !important;
-  height: 1%;
+	height: 34px;
   position: relative;
 }
 .chzn-container-multi .chzn-choices li {
